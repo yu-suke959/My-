@@ -1,0 +1,63 @@
+p.sub-title1 {
+    color: cornflowerblue;
+}
+p#sub-title2{
+    color: green;
+}
+.company{
+    font-size: larger;
+    font-weight: bold;
+}
+
+h1 {
+    color:gold;
+    font-size: 50pt;
+    font-weight: bold;
+
+}
+
+div.box1{
+    height:100px;
+    width: 100px;
+    background-color: grey;
+}
+
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color: lime;
+}
+
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color: magenta;
+    
+}
+
+
+div.cloverking { display: flex; flex-wrap: wrap; width: 88%; margin: 1%;}
+div.clover1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50% 50% 0 50%;
+    background-color: mediumblue;
+  }
+div.clover2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50% 50% 50% 0;
+    background-color: mediumblue;
+  }
+div.clover3 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50% 0 50% 50%;
+    background-color: mediumblue;
+}
+div.clover4{
+    height: 50px;
+    width: 50px;
+    border-radius: 0 50% 50% 50%;
+    background-color: mediumblue;
+}
